@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908252002710",
+    "firebase_url": "https://govindtask-6d622.firebaseio.com",
+    "project_id": "govindtask-6d622",
+    "storage_bucket": "govindtask-6d622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908252002710:android:aa039f170582d579a2c5b7",
+        "android_client_info": {
+          "package_name": "com.goreena.govindtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908252002710-u6i3mc3marpnp91b4eu5c25u0i8v8733.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goreena.govindtask",
+            "certificate_hash": "ce1676a6d6608f67d1e99eeb4e330848127c8bc9"
+          }
+        },
+        {
+          "client_id": "908252002710-m3fpjh8sj6hdv74l3vskuu9nkvffm092.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO8_NnDDbttifbzrK8cwvQwexFCXSPNck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908252002710-m3fpjh8sj6hdv74l3vskuu9nkvffm092.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
